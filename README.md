@@ -2,7 +2,7 @@
 
 This is a simple O & X game made using Html, Css and Javascript.
 
-## Preview:
+## Preview: https://dushyant029.github.io/Nought-n-Cross-Game/
 
 ![image](https://user-images.githubusercontent.com/55031190/104050666-f6490d80-520c-11eb-85bb-0e56f892b4e6.png)
 
